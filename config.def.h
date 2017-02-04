@@ -111,5 +111,5 @@ static Button buttons[] = {
 	{ ClkTagBar,            MODKEY,         Button3,        toggletag,      {0} },
 };
 
-static const unsigned int gappx = 6;
+static const unsigned int gappx = 12;
 
